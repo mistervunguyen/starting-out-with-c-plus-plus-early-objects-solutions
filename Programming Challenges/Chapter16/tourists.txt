@@ -1,0 +1,8 @@
+3
+0 Paul
+1 Peter
+2 David
+
+0 3 Chicago Boston Memphis
+1 1 Boston
+2 0
