@@ -1,0 +1,4 @@
+Mary  45
+Anna   78
+Sophia  5
+Petros  12
